@@ -11,7 +11,7 @@ namespace PortChecker
     {
         static void Main(string[] args)
         {
-            int[] portsToCheck = { 21, 22, 8083, 8323, 10001 };
+            int[] portsToCheck = { 21, 22, 8083, 8323, 11001 };
             string filePath = "iplist.csv";
             string resultFile = "ipportresult.csv";
 
@@ -21,7 +21,7 @@ namespace PortChecker
                 {
                     using (var writer = new StreamWriter(resultFile))
                     {
-                        writer.WriteLine("IP;Ping;Port 21;Port 22;Port 8083;Port 8323;Port 10001");
+                        writer.WriteLine("IP;Ping;Port {0};Port {1};Port {2};Port {3};Port {4}", portsToCheck[0], portsToCheck[1], portsToCheck[2], portsToCheck[3], portsToCheck[4]);
                         while (!reader.EndOfStream)
                         {
                             string[] line = reader.ReadLine().Split(';');
