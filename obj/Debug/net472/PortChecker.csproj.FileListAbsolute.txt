@@ -1,0 +1,22 @@
+G:\PortChecker\bin\Debug\net472\PortChecker.exe.config
+G:\PortChecker\bin\Debug\net472\PortChecker.exe
+G:\PortChecker\bin\Debug\net472\PortChecker.pdb
+G:\PortChecker\obj\Debug\net472\PortChecker.csproj.AssemblyReference.cache
+G:\PortChecker\obj\Debug\net472\PortChecker.csproj.SuggestedBindingRedirects.cache
+G:\PortChecker\obj\Debug\net472\PortChecker.GeneratedMSBuildEditorConfig.editorconfig
+G:\PortChecker\obj\Debug\net472\PortChecker.AssemblyInfoInputs.cache
+G:\PortChecker\obj\Debug\net472\PortChecker.AssemblyInfo.cs
+G:\PortChecker\obj\Debug\net472\PortChecker.csproj.CoreCompileInputs.cache
+G:\PortChecker\obj\Debug\net472\PortChecker.exe
+G:\PortChecker\obj\Debug\net472\PortChecker.pdb
+G:\#Eigene Dateien\Eigene Programme\PortChecker\bin\Debug\net472\PortChecker.exe.config
+G:\#Eigene Dateien\Eigene Programme\PortChecker\bin\Debug\net472\PortChecker.exe
+G:\#Eigene Dateien\Eigene Programme\PortChecker\bin\Debug\net472\PortChecker.pdb
+G:\#Eigene Dateien\Eigene Programme\PortChecker\obj\Debug\net472\PortChecker.csproj.AssemblyReference.cache
+G:\#Eigene Dateien\Eigene Programme\PortChecker\obj\Debug\net472\PortChecker.csproj.SuggestedBindingRedirects.cache
+G:\#Eigene Dateien\Eigene Programme\PortChecker\obj\Debug\net472\PortChecker.GeneratedMSBuildEditorConfig.editorconfig
+G:\#Eigene Dateien\Eigene Programme\PortChecker\obj\Debug\net472\PortChecker.AssemblyInfoInputs.cache
+G:\#Eigene Dateien\Eigene Programme\PortChecker\obj\Debug\net472\PortChecker.AssemblyInfo.cs
+G:\#Eigene Dateien\Eigene Programme\PortChecker\obj\Debug\net472\PortChecker.csproj.CoreCompileInputs.cache
+G:\#Eigene Dateien\Eigene Programme\PortChecker\obj\Debug\net472\PortChecker.exe
+G:\#Eigene Dateien\Eigene Programme\PortChecker\obj\Debug\net472\PortChecker.pdb

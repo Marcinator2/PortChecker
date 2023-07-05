@@ -1,0 +1,5 @@
+IP;Ping;Port 21;Port 8083;Port 8323;Port 10001
+192.168.178.1;Reachable;Open;Closed;Closed;Closed
+192.168.178.2;Unreachable;;;
+192.168.178.1;Reachable;Open;Closed;Closed;Closed
+192.168.178.4;Unreachable;;;
