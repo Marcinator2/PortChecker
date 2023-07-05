@@ -4,7 +4,6 @@ using System.Net.Sockets;
 using System.IO;
 using System.Net.NetworkInformation;
 
-//first Git test
 
 namespace PortChecker
 {
@@ -12,7 +11,7 @@ namespace PortChecker
     {
         static void Main(string[] args)
         {
-            int[] portsToCheck = { 20, 22, 8083, 8323, 10001 };
+            int[] portsToCheck = { 21, 22, 8083, 8323, 10001 };
             string filePath = "iplist.csv";
             string resultFile = "ipportresult.csv";
 
