@@ -12,7 +12,7 @@ namespace PortChecker
     {
         static void Main(string[] args)
         {
-            int[] portsToCheck = { 21, 22, 8083, 8323, 10001 };
+            int[] portsToCheck = { 20, 22, 8083, 8323, 10001 };
             string filePath = "iplist.csv";
             string resultFile = "ipportresult.csv";
 
